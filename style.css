@@ -5,7 +5,7 @@
   font-family: Arial, sans-serif;
 }
 
-/* Cabeçalho */
+
 header {
   display: flex;
   justify-content: space-between;
@@ -78,7 +78,7 @@ header {
   cursor: pointer;
 }
 
-/* Container Principal */
+
 .main-container {
   display: flex;
   justify-content: space-between;
@@ -86,7 +86,7 @@ header {
   background-color: #f9f9f9;
 }
 
-/* Área do vídeo */
+
 .video-container {
   flex: 3;
   margin-right: 20px;
@@ -104,7 +104,7 @@ header {
   font-weight: bold;
 }
 
-/* Descrição do Vídeo */
+
 .video-description {
   margin-top: 20px;
   font-size: 0.9em;
@@ -116,7 +116,7 @@ header {
   margin-bottom: 10px;
 }
 
-/* Barra lateral */
+
 .sidebar {
   flex: 1;
   display: flex;
@@ -147,7 +147,7 @@ header {
   color: #555;
 }
 
-/* Comentários */
+
 .comments-section {
   margin-top: 30px;
   padding: 15px;
@@ -225,7 +225,7 @@ header {
   background-color: #ff0000;
 }
 
-/* Ajustes na seção do canal */
+
 .channel-section {
   display: flex;
   align-items: center;
@@ -277,7 +277,7 @@ header {
   background-color: #cc0000;
 }
 
-/* Ajuste nos outros botões da seção */
+
 .actions {
   display: flex;
   gap: 15px;
